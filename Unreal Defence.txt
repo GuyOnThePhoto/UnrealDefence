@@ -1,0 +1,42 @@
+Жанр: Стратегія
+Назва: Unreal Defence
+Сюжет: 
+Складність: 1-2(3) рівні(в кожному складніші моби), мінімум 3 хвилі
+
+
+----------------------------------------------------------------------
+minLvl
+minDif
+minMob
+Tow
+minTow
+startPoint
+finnishPoint
+----------------------------------------------------------------------
+-----
+Mob--
+-----
+Health
+Speed
+Texture
+Size
+Bound
+typeEnemy
+gold
+------
+Tower-
+------
+health
+damage
+texture
+typeTower
+sound
+bound
+----------------------------------------------------------------------
+-----
+User-
+-----
+Gold 
+id
+score
+health
